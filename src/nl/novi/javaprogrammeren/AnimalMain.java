@@ -33,5 +33,22 @@ public class AnimalMain {
     Alles staat hier in het Nederlands beschreven. Schrijf je klassen-, variabele en methodenamen in het Engels.
 
      */
+       /*
+    UITBREIDING
+    Maak nu ook de subklassen en override of super de methodes waar jij denkt dat je het nodig acht.
+    Zorg ervoor dat de Animal-klasse niet geïnstantieerd kan worden.
+
+    Er zijn hier meerdere oplossingen mogelijk. Bijna allemaal zijn ze goed, zolang je jouw oplossing maar kan
+    beargumenteren.
+
+    UITDAGING:
+    Alle dieren moeten kunnen bewegen. Dit moet als methode toegevoegd worden. Wanneer een huisdier beweegt print je in
+    de console dat deze 0.25 is verplaatst. Bij alle andere dieren is dat 0.50.
+
+    Zorg er voor dat alleen de concrete klassen geinstantieerd kunnen worden. Zijn methodes zo verschillend dat ze
+    specifiek voor 1 dier zijn, misschien moet die dan abstract worden.
+
+    Zorg ervoor dat elk dier een eigen geluid maakt.
+     */
 
 }
